@@ -18,7 +18,8 @@
 - ⚡ Fun fact **Occasionally get hooked on Bread**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left"><a href="qingwentan29@gmail.com" target="_blank" rel="noreferrer">
+<p align="left">
+  Email: qingwentan29@gmail.com<br>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
