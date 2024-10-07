@@ -15,10 +15,10 @@
 
 - 📫 How to reach me **qingwentan29@gmail.com**
 
-- ⚡ Fun fact **Drink warm water for more than 20 years**
+- ⚡ Fun fact **Occasionally get hooked on Bread**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left"><a href="qingwentan29@gmail.com" target="_blank" rel="noreferrer">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
